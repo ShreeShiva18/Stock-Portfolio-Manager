@@ -2,7 +2,7 @@
 Full-stack portfolio tracker with React, Node.js, and MySQL for secure investment management.
 this platform is  built with React.js, Node.js, and MySQL. The system enables users to manage stock portfolios, track transactions, and securely store nominee and bank details. It features a relational database schema with efficient CRUD operations for multiple interconnected entities, providing centralized and accurate investment management.
 
-#🚀 Features
+**🚀 Features**
 
 User-friendly React.js frontend for portfolio management
 
@@ -18,7 +18,7 @@ Efficient CRUD operations across 7 interconnected entities
 
 Centralized, reliable, and scalable system design
 
-#🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend: React.js
 
@@ -28,7 +28,7 @@ Database: MySQL
 
 Other Tools: REST APIs, CRUD operations
 
-#⚙️ How It Works
+**⚙️ How It Works**
 
 Users log in to the system through the React.js frontend.
 
@@ -40,7 +40,7 @@ Database schema ensures relationships between users, stocks, transactions, nomin
 
 Users can view, update, and manage all portfolio details securely in one place.
 
-#📊 Results
+**📊 Results**
 
 Efficiently tracks multiple portfolios with accurate transaction history
 
@@ -50,7 +50,7 @@ Optimized MySQL queries enable real-time updates
 
 Designed for scalability to handle multiple users
 
-#📌 Applications
+**📌 Applications**
 
 Personal investment tracking
 
